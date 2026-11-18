@@ -1,0 +1,5 @@
+evidence_id,question_id,title,reference,status,valid_until
+E1,Q1,Inventory walkthrough,DEMO-101,approved,2027-03-01
+E2,Q1,Prior inventory recording,DEMO-094,approved,2027-02-28
+E3,Q2,Approval timeline example,FIXTURE-021,draft,2027-06-01
+E4,Q4,Ownership field reference,DOC-031,approved,2027-09-01
